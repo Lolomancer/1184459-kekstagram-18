@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alexander](https://up.htmlacademy.ru/javascript/18/user/1184459).
-* Наставник: `Неизвестно`.
+* Наставник: Ткаченко Виктория.
 
 ---
 
